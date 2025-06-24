@@ -1,4 +1,3 @@
-
 title: "Haozhou Yang"
 email: haozhouyang@ucsb.edu
 description: >-  # this means to ignore newlines until "baseurl:"
@@ -67,15 +66,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/louis_yhz"
+    - label: "X (Twitter)"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/louis_yhz"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/LouisYang01"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/YOUR_LINKEDIN/"
+      url: "https://www.linkedin.com/in/haozhou-louis-yang/"
 
 defaults:
   # _posts
