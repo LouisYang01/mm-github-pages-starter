@@ -42,7 +42,7 @@ plugins:
 
 author:
   name   : "Haozhou Yang"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_photo.png"
   bio    : "Aspiring PhD student in Economics at UC Santa Barbara. Sharing my CV, academic projects, and research interests."
   links:
     - label: "Email"
@@ -102,6 +102,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-custom_css:
-  - /assets/css/custom-home.css

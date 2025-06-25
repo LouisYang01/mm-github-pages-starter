@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: home
 author_profile: false
-title: "Haozhou Yang"
+title: "Welcome!"
 ---
 
 ## Education

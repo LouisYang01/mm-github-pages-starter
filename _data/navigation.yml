@@ -1,9 +1,7 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "Publications"
-    url: "/publications/"
+  - title: "CV"
+    url: "/assets/"
   - title: "Projects"
     url: "/projects/"
-  - title: "About"
-    url: /about/
