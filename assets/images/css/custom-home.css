@@ -1,0 +1,49 @@
+.homepage-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 2em;
+  gap: 2em;
+}
+.header-left {
+  flex: 2;
+}
+.header-right {
+  flex: 1;
+  text-align: center;
+}
+.profile-photo {
+  width: 120px;
+  border-radius: 12px;
+  margin-bottom: 1em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.social-links a {
+  margin: 0 0.3em;
+  color: #0077b6;
+  text-decoration: none;
+  font-weight: 500;
+}
+.homepage-cards {
+  display: flex;
+  gap: 2em;
+  margin-bottom: 2em;
+  flex-wrap: wrap;
+}
+.card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  padding: 1.5em;
+  flex: 1;
+  min-width: 250px;
+}
+.homepage-news {
+  margin-top: 2em;
+}
+@media (max-width: 900px) {
+  .homepage-header, .homepage-cards {
+    flex-direction: column;
+    gap: 1em;
+  }
+}
