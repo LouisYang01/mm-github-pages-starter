@@ -1,6 +1,6 @@
 ---
 layout: home
-author_profile: false
+author_profile: True
 title: "Welcome!"
 ---
 
@@ -31,7 +31,5 @@ title: "Welcome!"
 - **June 23, 2023:** I graduated from Shanghai International Studies University.
 
 ---
-
-<!-- You can add more sections as needed, e.g., Research Interests, Experience, etc. -->
 
 This is my personal site for showcasing my CV, academic projects, and ideas.
