@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "CV"
+    url: "/assets/"
+  - title: "Research"
+    url: "/reseach/"
+  - title: "About"
+    url: "/about/"
