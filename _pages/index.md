@@ -1,6 +1,6 @@
 ---
-layout: home
-author_profile: True
+layout: single
+author_profile: true
 title: "Welcome!"
 ---
 

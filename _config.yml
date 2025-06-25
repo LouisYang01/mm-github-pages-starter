@@ -7,6 +7,16 @@ github_username: LouisYang01
 minimal_mistakes_skin: default
 search: true
 
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Research"
+    url: "/research/"
+  - title: "About"
+    url: "/about/"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -102,3 +112,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  posts:
+    output: false
