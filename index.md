@@ -1,8 +1,16 @@
 ---
-layout: single
+layout: home
 author_profile: true
 title: "Welcome!"
+sidebar:
+  nav: "main"
+excerpt: ""
 ---
+
+{% comment %}
+Hide recent posts on home page:
+{% endcomment %}
+{% assign posts = "" %}
 
 ## Education
 
@@ -20,7 +28,7 @@ title: "Welcome!"
   
 - **Shanghai International Studies University**  
   _B.Econ. in International Economics and Trade_  
-  Sep. 2019 – June 2023
+  Sept. 2019 – June 2023
 
 ---
 

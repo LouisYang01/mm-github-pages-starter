@@ -1,6 +1,6 @@
 title: "Haozhou Yang"
 email: haozhouyang@ucsb.edu
-description: >-  # this means to ignore newlines until "baseurl:"
+description: >-  
   Aspiring PhD student in Economics at UC Santa Barbara. Sharing my CV, academic projects, and research interests. 
 twitter_username: louis_yhz
 github_username: LouisYang01
@@ -8,9 +8,20 @@ minimal_mistakes_skin: default
 search: true
 
 
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Research"
+    url: "/research/"
+  - title: "About"
+    url: "/about/"
+
+
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -49,9 +60,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:haozhouyang@ucsb.edu"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=YOUR_ID"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/LouisYang01"
